@@ -16,7 +16,7 @@ Welcome to the **Discord Mass DM Tool**! This powerful utility is designed for u
 **Note**: This is a free version of my mass dm tool. This free version will **NOT** scrape the members. you will need manually put the user ids in the free version. This free version will **NOT** solve any captchas. The free version is not designed for mass dming on a larger scale. The tokens may get locked when using the free version as the free version does **NOT** have proxy support.
 **To purchase the paid version that will automatically scrape and automatically solve captchas and mass dm on a larger scale without getting locked with proxy support, contact me on discord @uutu or on telegram @tahagorme**
 https://discord.gg/acoustic
-Preview: https://photos.app.goo.gl/Ydnbu63orA8B6usQA
+Preview: https://files.offshore.cat/fVHBKYLp.mp4
 ## Installation
 
 1. **Clone the Repository**:
