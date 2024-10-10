@@ -1,0 +1,22 @@
+{
+  "name": "discord-mass-dm-tool",
+  "version": "1.0.0",
+  "description": "a discord mass dm tool",
+  "main": "dm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "mass",
+    "dm",
+    "joiner",
+    "bot"
+  ],
+  "author": "https://github.com/tahagorme",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js-selfbot-v13": "^3.3.0"
+  }
+}

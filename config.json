@@ -1,0 +1,11 @@
+{
+    "dm_delay_min": 8000,
+    "dm_delay_max": 16000,
+    "dm_messages": [
+        "Hello!!",
+        "Hi!!",
+        "How are you?"
+    ],
+    "login_delay_min": 1000,
+    "login_delay_max": 2000
+}
