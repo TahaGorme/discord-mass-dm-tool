@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="9pTsmZCcOKj1sEbLuqehqZqRXbZM1KlfUoW1RH_NrV8" />
+
 # Discord Mass DM Tool
 
 Welcome to the **Discord Mass DM Tool**! This powerful utility is designed for users who need to send discord mass dms or direct messages to multiple members in a Discord server efficiently. Unlike other tools, our solution is unique in its capability to solve captchas automatically, making it the only working mass DM tool on the market with this feature.
