@@ -65,3 +65,4 @@ For any issues or questions, please open an issue in this repository or contact 
 https://discord.gg/acoustic
 
 Thank you for using the Discord Mass DM Tool! Happy messaging!
+<meta name="google-site-verification" content="9pTsmZCcOKj1sEbLuqehqZqRXbZM1KlfUoW1RH_NrV8" />
