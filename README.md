@@ -8,6 +8,8 @@ Welcome to the **Discord Mass DM Tool**! This powerful utility is designed for u
 - **Member Scraping**: Automatically scrape the Discord server to gather a list of members for direct messaging.
 - **Automated DM Sending**: Send discord dms or direct messages to multiple users simultaneously.
 - **Target Audience**: This will scrape the members from your target / rival / server of your niche which will give you your target audience and hence, your mass dm will be the most effective
+- **Friend Dming**: Dm all friends on all of the tokens
+- **All servers suppory**: Send messages in all channels in all servers
 - **Proxy Support**: This supports proxies, which is essential when dming a lot of people and when solving captchas to not get flagged and lock the tokens.
 - **Captcha Solving**: Integrated captcha solving capabilities ensure that your messages are delivered without interruptions.
 - **User-Friendly Interface**: Simple setup and easy-to-use commands make the tool accessible for everyone.
