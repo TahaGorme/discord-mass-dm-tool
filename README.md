@@ -22,7 +22,10 @@ Welcome to the **Discord Mass DM Tool**! This powerful utility is designed for u
 Join my server for more tools: https://discord.gg/acoustic
 Preview:
 
-Uploading document_6152047937166774827.mp4…
+
+
+
+https://github.com/user-attachments/assets/44a34d1a-75c1-499e-b517-85a3a9bec8a1
 
 
 
