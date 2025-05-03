@@ -21,7 +21,8 @@ tldr: the free version does not do shit and is patched.
 
 **Note**: This is a free version of my mass dm tool.The free version is flagged as hell. This free version will **NOT** scrape the members. you will need manually put the user ids in the free version. This free version will **NOT** solve any captchas. The free version is not designed for mass dming on a larger scale. The tokens may get locked when using the free version as the free version does **NOT** have proxy support.
 **To purchase the paid version that will automatically scrape and automatically solve captchas and mass dm on a larger scale without getting locked with proxy support, contact me on discord @uutu or on telegram @tahagorme**
-Join my server for more tools: https://discord.gg/acoustic
+Join my server for more tools: https://discord.gg/U2JYzUGKP4 https://discord.gg/tommyinit
+
 Preview:
 
 
