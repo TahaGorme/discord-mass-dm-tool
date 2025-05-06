@@ -17,11 +17,11 @@ Welcome to the **Discord Mass DM Tool**! This powerful utility is designed for u
 - **Open Source**: Review, modify, and contribute to the code as it is fully open-source.
 
 # Purchase Paid and Unflagged, Private Version (Updated May 2025)
-tldr: the free version does not do shit and is patched. UPDATED: MAY 2025, CONTACT ME ON DISCORD **@uutu** AND JOIN MY DISCORD https://discord.gg/tommyinit
+![image](https://github.com/user-attachments/assets/941de13f-1fa0-41e5-acd1-96a19c4aa76b)
 
-**Note**: This is a free version of my mass dm tool.The free version is flagged as hell. This free version will **NOT** scrape the members. you will need manually put the user ids in the free version. This free version will **NOT** solve any captchas. The free version is not designed for mass dming on a larger scale. The tokens may get locked when using the free version as the free version does **NOT** have proxy support.
-**To purchase the paid version that will automatically scrape and automatically solve captchas and mass dm on a larger scale without getting locked with proxy support, contact me on discord @uutu or on telegram @tahagorme**
-Join my server for more tools: https://discord.gg/U2JYzUGKP4 https://discord.gg/tommyinit
+https://github.com/user-attachments/assets/a02868a7-f760-4dd3-a7e9-412d16a6dd7a
+
+The free version of the tool is patched, to purchase the paid version (Mass DM + Joiner + Scraper included), dm me on discord @uutu or on telegram @tahagorme and Join my server to purchase: https://discord.gg/U2JYzUGKP4 https://discord.gg/tommyinit
 
 Preview:
 
