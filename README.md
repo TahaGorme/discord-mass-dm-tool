@@ -16,20 +16,12 @@ Welcome to the **Discord Mass DM Tool**! This powerful utility is designed for u
 - **User-Friendly Interface**: Simple setup and easy-to-use commands make the tool accessible for everyone.
 - **Open Source**: Review, modify, and contribute to the code as it is fully open-source.
 
-# Purchase Paid and Unflagged, Private Version (Updated May 2025)
+# Purchase Unflagged and Private Version (Updated May 2025)
 ![image](https://github.com/user-attachments/assets/941de13f-1fa0-41e5-acd1-96a19c4aa76b)
 
 https://github.com/user-attachments/assets/a02868a7-f760-4dd3-a7e9-412d16a6dd7a
 
 The free version of the tool is patched, to purchase the paid version (Mass DM + Joiner + Scraper included), dm me on discord @uutu or on telegram @tahagorme and Join my server to purchase: https://discord.gg/U2JYzUGKP4 https://discord.gg/tommyinit
-
-Preview:
-
-
-
-
-https://github.com/user-attachments/assets/44a34d1a-75c1-499e-b517-85a3a9bec8a1
-
 
 
 
