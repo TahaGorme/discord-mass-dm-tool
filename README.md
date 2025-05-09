@@ -16,7 +16,7 @@ Welcome to the **Discord Mass DM Tool**! This powerful utility is designed for u
 - **User-Friendly Interface**: Simple setup and easy-to-use commands make the tool accessible for everyone.
 - **Open Source**: Review, modify, and contribute to the code as it is fully open-source.
 
-# Purchase Unflagged and Private Version (Updated May 2025)
+# Purchase Unflagged and Private Version (Updated May 2025)!
 ![image](https://github.com/user-attachments/assets/941de13f-1fa0-41e5-acd1-96a19c4aa76b)
 
 https://github.com/user-attachments/assets/a02868a7-f760-4dd3-a7e9-412d16a6dd7a
