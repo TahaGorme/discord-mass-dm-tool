@@ -1,4 +1,4 @@
-# Discord Mass DM Tool (Updated May 2025)!
+# Discord Mass DM Tool (Updated June 2025)!
 
 Welcome to the **Discord Mass DM Tool**! This powerful utility is designed for users who need to send discord mass dms or direct messages to multiple members in a Discord server efficiently. Unlike other tools, our solution is unique in its capability to solve captchas automatically, making it the only working mass DM tool on the market with this feature.
 
@@ -20,7 +20,7 @@ Welcome to the **Discord Mass DM Tool**! This powerful utility is designed for u
 
 https://github.com/user-attachments/assets/a02868a7-f760-4dd3-a7e9-412d16a6dd7a
 
-The free version of the tool is patched ie DOES NOT WORK, to purchase the paid version (Mass DM + Joiner + Scraper included), dm me on discord @uutu or on telegram @tahagorme and Join my server to purchase: https://discord.gg/U2JYzUGKP4 https://discord.gg/tommyinit https://slashy.zip
+The free version of the tool is patched ie DOES NOT WORK, to purchase the paid version (Mass DM + Joiner + Scraper included), dm me on discord @uutu or on telegram @tahagorme and Join my server to purchase: https://discord.gg/U2JYzUGKP4 https://discord.gg/massdm https://slashy.zip
 
 
 
